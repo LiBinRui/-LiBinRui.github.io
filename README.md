@@ -1,2 +1,2 @@
-# -LiBinRui.github.io
+# LiBinRui.github.io
 主页
