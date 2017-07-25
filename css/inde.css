@@ -1,0 +1,141 @@
+ /*foucs begin*/
+.foucs {
+    margin-left: 220px;
+    margin-top: 12px;
+    float: left;
+    position: relative;
+}
+ .arrow ul {
+     width: 136px;
+     height: 18px;
+     line-height: 18px;
+     position: absolute;
+     bottom: 10px;
+     left: 50%;
+     margin-left: -68px;
+     text-align: center;
+
+ }
+ .arrow ul li {
+     float: left;
+     width: 18px;
+     height: 18px;
+     border-radius: 50%;
+     background-color: #3E3E3E;
+     color: #fff;
+     margin: 0 2px;
+     cursor: pointer;
+ }
+ .arrow .red {
+     background-color: #B61B1F;
+ }
+ .roll {
+     width: 730px;
+     height: 62px;
+     line-height: 62px;
+     position: absolute;
+     top: 50%;
+     margin-top: -31px;
+     text-align: center;
+ }
+ .roll-l {
+     width: 28px;
+     height: 62px;
+     background: grey;
+     background: rgba(0,0,0,0.3);
+     float: left;
+     font-family: simsun;
+     font-size: 25px;
+     color: #fff;
+ }
+ .roll-r {
+     width: 28px;
+     height: 62px;
+     background: grey;
+     background: rgba(0,0,0,0.3);
+     float: right;
+     font-family: simsun;
+     font-size: 25px;
+     color: #fff;
+
+ }
+ .roll-l:hover {
+     color: #fff;
+ }
+ .roll-r:hover {
+     color: #fff;
+ }
+ .foucs-extra {
+     float: right;
+     width: 248px;
+     height: 454px;
+     margin-top: 12px;
+ }
+ .news-main{
+     width: 248px;
+     height: 163px;
+     border: 1px solid #ccc;
+ }
+ .news {
+     height: 32px;
+     line-height: 32px;
+     border-bottom: 1px dotted #E4E4E4;
+     padding: 0 15px;
+     margin-bottom: 4px;
+
+ }
+ .news h3 {
+     float: left;
+     font-weight: 400;
+     font-family: "Microsoft Yahei";
+ }
+ .news a {
+     float: right;
+ }
+ .news a i {
+     font-family: simsun;
+ }
+
+ .news-list li {
+     height: 24px;
+     line-height: 24px;
+     margin-left: 15px;
+ }
+ .news-list li b {
+     margin-right: 5px;
+ }
+ .lifeserve {
+     width: 248px;
+     height: 208px;
+     border: 1px solid #ccc;
+     border-top: 0;
+     overflow: hidden;
+ }
+ .lifeserve ul {
+     width: 253px;
+ }
+ .lifeserve ul li {
+     width: 62px;
+     height: 70px;
+     text-align: center;
+     border-right: 1px solid #ccc;
+     border-bottom: 1px solid #ccc;
+     float: left;
+ }
+ .lifeserve ul li a {
+     padding-top: 48px;
+     display: block;
+     position: relative;
+ }
+ .lifeserve ul li a s{
+     width: 19px;
+     height: 24px;
+     position: absolute;
+     top: 13px;
+     left: 21px;
+     background: url("../images/life.png") no-repeat -3px 0;
+ }
+ .ad img {
+     margin-top: 5px;
+ }
+ /*foucs end*/
